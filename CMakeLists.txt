@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(lang
     main.cpp
-        token/token.h)
+        token/token.h
+        token/token.cpp)
